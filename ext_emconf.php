@@ -11,11 +11,11 @@
  ***************************************************************/
 
 $EM_CONF[$_EXTKEY] = array(
-	'title' => 'Site templates',
-	'description' => 'Template files and assets for this site',
+	'title' => 'Funky Filioque',
+	'description' => 'Vorlagen für die Seite der Volksmission Freudenstadt',
 	'category' => 'misc',
 	'shy' => 0,
-	'version' => '0.0.1',
+	'version' => '6.0.0',
 	'dependencies' => 'cms,extbase,fluid,flux,fluidpages,fluidcontent,vhs',
 	'conflicts' => '',
 	'priority' => '',
@@ -27,9 +27,9 @@ $EM_CONF[$_EXTKEY] = array(
 	'modify_tables' => '',
 	'clearcacheonload' => 1,
 	'lockType' => '',
-	'author' => '',
-	'author_email' => '',
-	'author_company' => '',
+	'author' => 'Christoph Fischer',
+	'author_email' => 'christoph.fischer@volksmission.de',
+	'author_company' => 'Volksmission Freudenstadt',
 	'CGLcompliance' => '',
 	'CGLcompliance_note' => '',
 	'constraints' => array(
