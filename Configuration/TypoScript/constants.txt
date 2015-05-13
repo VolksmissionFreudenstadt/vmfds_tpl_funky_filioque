@@ -1,0 +1,5 @@
+plugin.tx_vmfds.view {
+	templateRootPaths.default = EXT:vmfds/Resources/Private/Templates/
+	partialRootPaths.default = EXT:vmfds/Resources/Private/Partials/
+	layoutRootPaths.default = EXT:vmfds/Resources/Private/Layouts/
+}
